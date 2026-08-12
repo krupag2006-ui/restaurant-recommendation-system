@@ -1,5 +1,5 @@
 Project Title- 
-Hybrid Restaurant Recommendation System
+Hybrid Restaurant Recommendation System.
 A full-stack AI-powered restaurant recommendation system that provides personalized restaurant suggestions using a hybrid recommendation engine combining Content-Based and Collaborative Filtering.
 
 Problem Statement-
