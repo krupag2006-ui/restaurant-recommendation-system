@@ -6,3 +6,6 @@ __pycache__/
 .DS_Store
 dataset/zomato.csv
 dataset/cleaned/
+
+dataset/zomato.csv
+dataset/cleaned/zomato_cleaned.csv
